@@ -1,0 +1,11 @@
+C:\Users\chait\source\repos\Udraw\Udraw\bin\Debug\netcoreapp2.0\Udraw.deps.json
+C:\Users\chait\source\repos\Udraw\Udraw\bin\Debug\netcoreapp2.0\Udraw.runtimeconfig.json
+C:\Users\chait\source\repos\Udraw\Udraw\bin\Debug\netcoreapp2.0\Udraw.runtimeconfig.dev.json
+C:\Users\chait\source\repos\Udraw\Udraw\bin\Debug\netcoreapp2.0\Udraw.dll
+C:\Users\chait\source\repos\Udraw\Udraw\bin\Debug\netcoreapp2.0\Udraw.pdb
+C:\Users\chait\source\repos\Udraw\Udraw\obj\Debug\netcoreapp2.0\Udraw.csprojAssemblyReference.cache
+C:\Users\chait\source\repos\Udraw\Udraw\obj\Debug\netcoreapp2.0\Udraw.csproj.CoreCompileInputs.cache
+C:\Users\chait\source\repos\Udraw\Udraw\obj\Debug\netcoreapp2.0\Udraw.AssemblyInfoInputs.cache
+C:\Users\chait\source\repos\Udraw\Udraw\obj\Debug\netcoreapp2.0\Udraw.AssemblyInfo.cs
+C:\Users\chait\source\repos\Udraw\Udraw\obj\Debug\netcoreapp2.0\Udraw.dll
+C:\Users\chait\source\repos\Udraw\Udraw\obj\Debug\netcoreapp2.0\Udraw.pdb
